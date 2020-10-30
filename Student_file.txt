@@ -1,0 +1,75 @@
+Id :ECE3011yr
+Name :Manash Das
+Roll :301
+year :1yr.
+
+Id :ECE3021yr
+Name :Tanumay das
+Roll :302
+year :1yr.
+
+Id :ECE3031yr
+Name :Rohit kumar sah
+Roll :303
+year :1yr.
+
+Id :ECE3041yr
+Name :Maman talukdar
+Roll :304
+year :1yr.
+
+Id :ECE3051yr
+Name :Kostov mandal
+Roll :305
+year :1yr.
+
+Id :ECE3011yr
+Name :ECE3011YR
+Roll :301
+year :1yr.
+
+Id :EC23456782yr
+Name :Manash das
+Roll :2345678
+year :2yr.
+
+Id :EC456781yr
+Name :Sneha Paul
+Roll :45678
+year :1yr.
+
+Id :EC345678901yr
+Name :Ankush Paul
+Roll :34567890
+year :1yr.
+
+Id :class10431yr
+Name :Antara dhar
+Roll :43
+year :1yr.
+
+Id :class10531yr
+Name :Moupiya biswas
+Roll :53
+year :1yr.
+
+Id :10161yr
+Name :Monalisa adhikary
+Roll :16
+year :1yr.
+
+Id :Class 221yr
+Name :ankush paul
+Roll :2
+year :1yr.
+
+Id :ECE3121yr
+Name :rajeshwar shamanta
+Roll :312
+year :1yr.
+
+Id :ECE3091yr
+Name :Arijit Adhikary
+Roll :309
+year :1yr.
+

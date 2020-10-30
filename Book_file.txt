@@ -1,0 +1,52 @@
+Book id :bEngiDasp
+book_name :Engineering mathematics
+author name :bEngiDasp.
+
+Book id :bLetYash
+book_name :Let us c
+author name :bLetYash.
+
+Book id :bEngik.k
+book_name :Enginnering physics
+author name :bEngik.k.
+
+Book id :bJungJ.K
+book_name :Jungle book
+author name :bJungJ.K.
+
+Book id :bHalfChet
+book_name :Half girlfriend
+author name :bHalfChet.
+
+Book id :bMyDr.
+book_name :My Journey
+author name :bMyDr..
+
+Book id :bMathrs
+book_name :Mathematics
+author name :bMathrs.
+
+Book id :bscieHC
+book_name :science
+author name :bscieHC.
+
+Book id :bmathNCER
+book_name :mathematics
+author name :bmathNCER.
+
+Book id :bscieNCER
+book_name :science
+author name :bscieNCER.
+
+Book id :benglv
+book_name :english
+author name :benglv.
+
+Book id :bsundsusp
+book_name :sunday
+author name :bsundsusp.
+
+Book id :bk.cmath
+book_name :k.c das
+author name :bk.cmath.
+
